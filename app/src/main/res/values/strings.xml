@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ExConsumo</string>
+    <string name="s_autonomia">Autonomia (km\l)</string>
+    <string name="s_tanque">Tanque (L)</string>
+    <string name="s_mensagem">A autonomia estimada é de</string>
+</resources>
